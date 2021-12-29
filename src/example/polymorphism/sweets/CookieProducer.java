@@ -1,4 +1,4 @@
-package example.polimorphism.sweets;
+package example.polymorphism.sweets;
 
 public class CookieProducer extends SweetProducer {
 

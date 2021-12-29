@@ -1,4 +1,4 @@
-package example.polimorphism.simpson;
+package example.polymorphism.simpson;
 
 public class PolymorphismChallenge {
 

@@ -1,4 +1,4 @@
-package example.polimorphism.metalgear;
+package example.polymorphism.metalgear;
 
 public class UseSpecificMethod {
 

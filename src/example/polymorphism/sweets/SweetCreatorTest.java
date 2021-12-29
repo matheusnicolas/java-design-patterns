@@ -1,4 +1,4 @@
-package example.polimorphism.sweets;
+package example.polymorphism.sweets;
 
 import java.util.Arrays;
 
